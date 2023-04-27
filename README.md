@@ -1,6 +1,4 @@
-# dendrite_growth
-
-This code reproduces the results of ``Multiphysics modeling and finite-element formulation of neural dendrite growth with electrical polarization'' submitted to Brain Multiphysics.
+This code reproduces the results of "Multiphysics modeling and finite-element formulation of neural dendrite growth with electrical polarization" (Wang et al. 2023 Brain Multiphysics).
 
 ## in silico computational simulations
 
